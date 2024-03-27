@@ -1,13 +1,13 @@
 {
-    "name": "Miko Music",
+    "name": "𝙄𝙎𝙃𝘼 𓆩♡𓆪 𝙎𝙀𝙉𝙋𝘼𝙄",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://telegra.ph/file/64fffd8c475f496e409b1.jpg",
+    "logo": "https://telegra.ph//file/f655df124bb16afdb7a0e.jpg",
     "keywords": [
     "python3",
     "telegram",
     "bot",
-    "Miko",
-    "MikoMusicBot",
+    "Isha",
+    "IshaMusicBot",
     "telegram-bot",
     "pyrogram"
     ],
